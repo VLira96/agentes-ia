@@ -10,3 +10,6 @@ venv/
 # Ignorar arquivos de sistema (opcional)
 .DS_Store
 Thumbs.db
+
+# Ignorar arquivo de testes
+teste.py

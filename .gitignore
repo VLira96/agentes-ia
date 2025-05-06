@@ -3,11 +3,11 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Ignorar ambientes virtuais (caso use venv)
+# Ignorar ambientes virtuais
 venv/
 .env/
 
-# Ignorar arquivos de sistema (opcional)
+# Ignorar arquivos de sistema
 .DS_Store
 Thumbs.db
 
